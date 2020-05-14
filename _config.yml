@@ -4,7 +4,7 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 url:                "https://racoonxxi.github.io"
 baseurl:            ""
-remote_theme:       Blackrock Digital/startbootstrap-clean-blog-jekyll
+remote_theme:       BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
 twitter_username:   SBootstrap
