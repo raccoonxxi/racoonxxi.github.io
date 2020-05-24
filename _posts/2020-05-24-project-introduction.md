@@ -17,10 +17,5 @@ background: ''
 
 <h2 class="section-heading">프로젝트 내 역할</h2>
 
-<p> </p>
-
-
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<p> 총괄 1명, PR팀 2명, 정적 페이지 관리팀 2명으로 구성되어있다.</p>
 
