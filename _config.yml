@@ -1,15 +1,15 @@
-title:              Clean Blog
+title:              Seonggyu Choi's Blog
 email:              choi235711@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        about Programming
 author:             Start Bootstrap
 url:                "https://racoonxxi.github.io"
 baseurl:            ""
 remote_theme:       BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    racoonxxi 
+facebook_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
